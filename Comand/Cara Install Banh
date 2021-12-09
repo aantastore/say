@@ -1,0 +1,22 @@
+Assalamualaikum
+
+Command
+
+pkg update && pkg upgrade
+pkg install nodejs
+pkg install git
+pkg install wget
+pkg install ffmpeg
+pkg install imagemagick
+termux-setup-storage
+cd /sdcard
+cp -r NewBaseNdy $HOME
+cd
+cd NewBaseNdy
+bash install.sh
+npm start
+
+Kalo Udah Semua Ketik
+
+cd NewBaseNdy
+npm start
