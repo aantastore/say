@@ -1,5 +1,5 @@
-creator = 'Ndyie' //ganti aja paake nama lu
-bot = 'Ndyie' //ganti pake nama bot lu
+creator = 'Xynta Store' //ganti aja paake nama lu
+bot = 'Xynta Botz' //ganti pake nama bot lu
 
 /*
 Thanks To Buat
@@ -63,13 +63,13 @@ tamnel = fs.readFileSync('./itsuki.jpg')
 
 
 //━━━━━━━━━━━━━━━[ SETTING  ]━━━━━━━━━━━━━━━\\
-const ownerNumber = ["6283818744065"] //ganti pake nomer elu
+const ownerNumber = ["6281262411188"] //ganti pake nomer elu
 
 
 //━━━━━━━━━━━━━━━[ DONASI ]━━━━━━━━━━━━━━━\\
-const ovo = ["083818744065"] //ganti pake nomer ivo lu
-const dana = ["083818744065"] //ganti pake nomer dana lu
-const gopay = ["083818744065"] //ganti pake nomer gopay lu
+const ovo = ["081262411188"] //ganti pake nomer ivo lu
+const dana = ["081262411188"] //ganti pake nomer dana lu
+const gopay = ["081262411188"] //ganti pake nomer gopay lu
 
 
 //━━━━━━━━━━━━━━━[ APIKEYNYA  ]━━━━━━━━━━━━━━━\\
@@ -77,7 +77,7 @@ const caliphAPI = ["caliphganz" ]//jangan di ganti
 const cikopi = ["XChillDs"]//jangan di ganti
 const cikoapi = ["ciko"]//jangan di ganti
 const RendyAPI = ["Rendy"]//jangan di ganti
-/*const apikeylu = ["apikeylu"] */ //kalo Punya apikey taro sini
+/*const apikeylu = ["Z-BOT8"] */ //kalo Punya apikey taro sini
 
 //━━━━━━━━━━━━━━━[ Public Self ]━━━━━━━━━━━━━━━\\
 isSelf = false //jangan di ganti
